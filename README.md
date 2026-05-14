@@ -1,2 +1,2 @@
 # drone-kiki
-video de drone, lugares  e passeios 
+video de drone, lugares  e passeios .
